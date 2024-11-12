@@ -72,7 +72,7 @@ code for ss 4:
 <div style="width: 360px; height: 640px; position: relative; background-image: url(https://via.placeholder.com/360x640)">
   <div style="width: 313px; height: 116px; left: 62px; top: 54px; position: absolute; color: #FA00FF; font-size: 48px; font-family: Inter; font-style: italic; font-weight: 300; word-wrap: break-word">THANK<br/>        YOU!</div>
   <div style="width: 175px; height: 33px; left: 17px; top: 209px; position: absolute"><span style="color: #DE0DB0; font-size: 30px; font-family: Inter; font-weight: 600; word-wrap: break-word">C0NTACT:<br/></span><span style="color: #FF1010; font-size: 30px; font-family: Inter; font-weight: 600; word-wrap: break-word">      <br/></span></div>
-  <div style="width: 304px; height: 138px; left: 71px; top: 267px; position: absolute"><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">Hariharan.A<br/></span><span style="color: #FF1010; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/></span><span style="color: #080E06; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">hariharana59@gmail.com<br/></span><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/>9360167882<br/></span><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/><br/></span></div>
+  <div style="width: 304px; height: 138px; left: 71px; top: 267px; position: absolute"><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">Piritha R<br/></span><span style="color: #FF1010; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/></span><span style="color: #080E06; font-size: 20px; font-family: Inter; font-weight: 900; word-wrap: break-word">Piritha05@gmail.com<br/></span><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/>9360167882<br/></span><span style="color: black; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"><br/><br/></span></div>
 </div>
 ```
 
@@ -80,7 +80,6 @@ code for ss 4:
 ![image](https://github.com/user-attachments/assets/30ec7073-65e6-4781-a0f3-e97cd56a80c3)
 ![image](https://github.com/user-attachments/assets/bf9c408f-e762-4d89-8d81-1c68d583d296)
 ![image](https://github.com/user-attachments/assets/f286271f-229b-4d68-819b-518be1d09f04)
-![image](https://github.com/user-attachments/assets/3d6d001c-722f-479f-960d-037296e38e55)
 
 
 ## RESULT:
